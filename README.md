@@ -2,7 +2,7 @@
 
 This project implements a **Python-based data ingestion pipeline** that retrieves life expectancy data from the World Bank API and prepares it for analysis.
 
-The workflow focuses on **reliable API consumption**, structured XML parsing, data validation, and transformation into an analysis-ready format.
+The workflow focuses on **reliable API consumption**, structured XML parsing, data validation, and transformation into an analysis-ready format. This script can be adapted to scrape similar structured websites.
 
 ---
 
